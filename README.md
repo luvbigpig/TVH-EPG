@@ -2,7 +2,7 @@
 
 Đây là lệnh cài một lệnh cho TVHeadend với nguồn EPG Việt Nam
 ```
-bash <([curl -Ls https://raw.githubusercontent.com/luvbigpig/TVH-EPG/refs/heads/main/new.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/luvbigpig/TVH-EPG/refs/heads/main/new.sh)
 ```
 Trước khi lệnh trên chạy được, hãy chắc chắn bạn đã mở External: XMLTV lên, nếu chưa mở , hãy thực hiện các bước sau đây
 ```
